@@ -1,2 +1,3 @@
 # Web-Osaka-Travel
-HTML / CSS / Javascript
+##　HTML / CSS / Javascript
+##　Website：http://lydiaweblydia.epizy.com/osaka-travel/
