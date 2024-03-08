@@ -38,22 +38,6 @@ body {
   font-size: 16px;
 }
 
-.btn-r{
-  color: #6f9ac7;
-  margin-top: 10px;
-  text-decoration: none;
-  padding-left: 13px;
-  padding-right: 13px;
-  padding-top: 3px;
-  padding-bottom: 3px;
-  margin-bottom: 32px;
-}
-.btn-r:hover {
-  color: #fff;
-  background-color: #6f9ac7;
-  border-radius: 4px;
-}
-
 .btn:hover {
   color: #fff;
   background-color: #6f9ac7;
@@ -176,9 +160,8 @@ body {
 
 .text100 {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
   color: #445694;
-  margin-bottom: 32px;
 }
 
 .text101 {
@@ -227,7 +210,7 @@ body {
 }
 
 .card--1 .card__img, .card--1 .card__img--hover {
-  background-image: url("https://resources.matcha-jp.com/old_thumbnails/720x2000/2397.jpg");
+  background-image: url("https://tw.wamazing.com/media/wp-content/uploads/sites/4/2023/10/konjyakukan_1.jpg");
 }
 
 .card--2 .card__img, .card--2 .card__img--hover {
@@ -439,7 +422,7 @@ body {
 }
 
 .carousel-item--2 .carousel-item__image {
-  background-image: url("https://www.skybldg.co.jp/img/top_002_smp.jpg");
+  background-image: url("https://www.osp.osaka-info.jp/upload/facility_shop/7/20230117_143635_375053.JPG");
 }
 
 .carousel-item--3 .carousel-item__image {
@@ -842,7 +825,7 @@ div.clip-path-container {
 }
 
 .taco {
-  background-image: url("https://image.japaholic.com/article/images/2020/10/gintako-title-700x394.png");
+  background-image: url("https://blog.buyee.jp/wp-content/uploads/2020/12/1200x628-3-1024x536.jpg");
   background-position: 0 0;
 }
 
@@ -862,7 +845,7 @@ div.clip-path-container {
 }
 
 .katsu {
-  background-image: url("https://s9.rr.itc.cn/r/wapChange/20166_17_2/a0s6ox0701484436352.jpg");
+  background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/18/0/FNK_CHICKEN_KATSU_H_f_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1616083203181.jpeg");
   background-position: 50% 90%;
 }
 
@@ -1015,4 +998,20 @@ a {
   font-style: normal;
   font-size: 12px;
   color: #cccccc;
+}
+
+.btn-r {
+  color: #6f9ac7;
+  margin-top: 10px;
+  text-decoration: none;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.btn-r:hover {
+  color: #fff;
+  background-color: #6f9ac7;
+  border-radius: 4px;
 }
